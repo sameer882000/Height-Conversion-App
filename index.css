@@ -1,0 +1,49 @@
+#container {
+width :375px;
+height:375px;
+margin-left:550px;
+margin-top:155px;
+background-color: #000;
+padding-left: 30px;
+color:#fff;
+}
+
+#feet{
+	width:150px;
+	height:25px;
+	margin-top: 30px;
+	margin-left:15px;
+	font-size:20px;
+}
+
+#inches{
+    width:150px;
+	height:25px;
+	margin-top: 30px;
+	font-size:20px;
+}
+
+#result {
+
+	font-size:35px;
+	margin-left:130px;
+	color:yellow;
+}
+
+#submit{
+	width:250px;
+	height:35px;
+	margin-left:40px;
+	margin-top: 25px;
+	border-radius: 5px;
+	border-style: none;
+	background-color:red;
+	color:#fff;
+	font-size:25px;
+}
+
+h1{
+
+	padding-left:15px;
+	padding-top:25px;
+}
